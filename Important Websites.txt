@@ -1,0 +1,73 @@
+1. Google Fonts: 
+http://www.google.com/fonts/
+
+2. Responsive Grid System: (fluid-grid) (to add rows and cols)
+http://www.responsivegridsystem.com/
+
+3. Flat UI colors:
+https://flatuicolors.com/palette/defo
+
+4. Find Color Shades:
+http://www.0to255.com/
+
+5. CSS3 Documentation:
+https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3
+
+6. Icons for websites:
+https://ionicons.com/
+https://fontawesome.com/get-started
+
+7. https://www.jsdelivr.com/
+(to make our website to work on older web browsers,
+threee javascript scripts)
+a. respond.js - enables the browser to 	understand and execute CSS media queries which we need for responsive web design.
+---> <script src="//cdn.jsdelivr.net/respond/1.4.2/respond.min.js"></script>
+b. html5shiv - this enables us to use and style HTML5 elements in older browsers that were available be4 html5 was existed.
+---> <script src="//cdn.jsdelivr.net/respond/3.7.2/html5shiv.min.js"></script>
+c. selectivizer - this allows us to use css 3 pseudo class like first child and last child 
+---> <script src="//cdn.jsdelivr.net/selectivizr/1.0.3b/selectivizr.min.js"></script>
+
+8. To know which tag or attribute works on which browser we can use the site:
+https://caniuse.com/
+
+9. Favicons Generator :
+https://realfavicongenerator.net/
+
+10. Animate CSS :
+https://daneden.github.io/animate.css/
+
+11. Image Compressor :
+http://imagecompressor.com/
+
+12. to crate minified CSS file : style.min.css
+http://www.minifycss.com/css-compressor/
+
+13. HTML Validation: 
+http://validator.w3.org/#validate_by_input
+
+14. Web hosting and domain  :
+https://in.godaddy.com/
+
+15. Google Analytics :
+https://www.google.com/analytics/#?modal_active=none
+===================================================================
+           Jquery plugins websites
+===================================================================
+
+1. Magnific-popup
+http://dimsemenov.com/plugins/magnific-popup/
+
+2.tooltipster
+http://iamceege.github.io/tooltipster/
+
+3. related to google maps
+http://maplacejs.com/
+
+4.Typer
+https://github.com/layervault/jquery.typer.js?files=1
+
+5. one page scroll
+http://www.thepetedesign.com/demos/onepage_scroll_demo.html
+
+6. Google maps 
+https://hpneo.github.io/gmaps/
